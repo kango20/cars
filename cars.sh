@@ -1,5 +1,5 @@
 #!/bin/bash
-#cars
+#cars.sh
 #Karen Ngo
 
 while echo "$CHOICE" | egrep -v "^[3]$" >/dev/null 2>&1
